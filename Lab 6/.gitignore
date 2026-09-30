@@ -1,0 +1,26 @@
+# Flutter/Dart specific
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android specific
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.*
+
+# Windows specific
+**/windows/flutter/ephemeral/
+
+# Large files
+android/.gradle/nb-cache/app-1066285725/project-info.ser
+windows/flutter/ephemeral/flutter_windows.dll.pdb 
